@@ -4,16 +4,16 @@
 
 <div align="center">
 
-![Terminal](https://img.shields.io/badge/Terminal-Active-8a2be2?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Hacker Mode](https://img.shields.io/badge/Hacker%20Mode-ON-8a2be2?style=for-the-badge&logo=protonmail&logoColor=white)
+![Vision Mode](https://img.shields.io/badge/Vision-Focused-8a2be2?style=for-the-badge&logo=airplayaudio&logoColor=white)
+![Future Ready](https://img.shields.io/badge/Future-Loading...-8a2be2?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-### 👾 Welcome, Hacker.
+### 🔭 About Me
 
-Self-taught dev.  
-Passionate about solving problems with code.  
-Living in the matrix — one line of code at a time.
+Developer in progress.  
+Driven by ambition and curiosity.  
+Turning ideas into reality through code.
 
 ---
 
@@ -25,7 +25,7 @@ Living in the matrix — one line of code at a time.
 
 ---
 
-### 🧠 Github Stats
+### 📊 Github Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoaugusto223&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoaugusto223&layout=compact&theme=tokyonight&hide_border=true" />
@@ -39,8 +39,8 @@ Living in the matrix — one line of code at a time.
 
 ---
 
-🕶️ *"The quieter you become, the more you are able to hear."*  
-— Kali Linux
+🧠 *"Dream big. Start small. Act now."*  
+— Robin Sharma
 
 </div>
 
